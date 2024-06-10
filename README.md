@@ -20,4 +20,4 @@ Apaixonado por tecnologia, sou formado no curso técnico de formação profisson
 
 ##
 
-![Snake animation](https://github.com/gustavinxd/gustavinxd/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/gustavinxd/gu-benjamin/blob/output/github-contribution-grid-snake.svg)
