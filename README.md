@@ -4,7 +4,7 @@ Apaixonado por tecnologia, sou formado no curso técnico de formação profisson
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-benjamin/)
 
-![gustavinxd GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavinxd&show_icons=true&theme=transparent)
+![gu-benjamin GitHub stats](https://github-readme-stats.vercel.app/api?username=gu-benjamin&show_icons=true&theme=transparent)
 
 ## 🚀 Habilidades
 
@@ -20,4 +20,3 @@ Apaixonado por tecnologia, sou formado no curso técnico de formação profisson
 
 ##
 
-![Snake animation](https://github.com/gustavinxd/gu-benjamin/blob/output/github-contribution-grid-snake.svg)
